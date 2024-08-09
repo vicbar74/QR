@@ -1,67 +1,40 @@
-body {
-
+﻿body {
     font-family: Arial, sans-serif;
-
     text-align: center;
-
     margin: 50px;
-
 }
-
- 
 
 button {
-
     color: BLACK;
-
     border: none;
-
     font-weight: bolder;
-
     padding: 50px 32px;
-
     text-align: center;
-
     text-decoration: none;
-
     display: inline-block;
-
     font-size: 20px;
-
     margin: 4px 2px;
-
     cursor: pointer;
-
 }
-
- 
 
 .green-button {
-
     background-color: #4CAF50; /* Verde */
-
 }
-
- 
 
 .green-button:hover {
-
     background-color: #45a049; /* Verde oscuro */
-
 }
-
- 
 
 .yellow-button {
-
     background-color: #FFD700; /* Amarillo */
-
 }
 
- 
-
 .yellow-button:hover {
-
     background-color: #FFC107; /* Amarillo más oscuro */
+}
 
+.subtitulo {
+    font-size: 36px;
+    color: #333;
+    margin-top: 20px;
 }
